@@ -8,7 +8,7 @@ if(isset($_SESSION['error']) && $_SESSION['error'] !=''){
 $error_message = $_SESSION['error'];
 }
 global $error_message;
-
+.
 ?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
